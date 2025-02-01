@@ -50,26 +50,6 @@ or
 yarn start
 ```
 
-## Project Structure
-
-src/
-├── features/
-│ ├── auth/
-│ │ └── components/
-│ │ └── Login/ # Authentication components
-│ ├── performance/
-│ │ └── components/
-│ │ ├── CallbackDemo/ # useCallback examples
-│ │ ├── MemoDemo/ # React.memo examples
-│ │ ├── PerformanceDemo/# General performance demos
-│ │ └── UseMemoDemo/ # useMemo examples
-│ └── products/
-│ └── components/
-│ └── ProductList/ # Product listing feature
-└── routes/
-└── routes.config.js # Application routing
-```
-
 ## Performance Optimization Examples
 
 ### 1. useMemo Demo
