@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@example.com",
+      "password": "password123"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "description": "High-performance laptop"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 499.99,
+      "description": "Latest model smartphone"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 99.99,
+      "description": "Wireless noise-canceling headphones"
+    }
+  ],
+  "auth": [
+    {
+      "id": "login",
+      "token": "fake-jwt-token",
+      "user": {
+        "id": 1,
+        "email": "test@example.com"
+      }
+    }
+  ]
+} 
