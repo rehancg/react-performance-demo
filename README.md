@@ -3,7 +3,6 @@
 This project demonstrates various React performance optimization techniques and best practices.
 
 ## Overview
-CGKuZcQ- D6yx0Y3NcOv1VlmIO1GZ6HRRQyicqjD88d3qzyd0- czq2C82GmtJLnif2AoJrvB6l- 5SeGyqX8cAyA-dj3UlAAA
 This application serves as a learning resource for understanding key React performance concepts including:
 - `useMemo` hook
 - `useCallback` hook
